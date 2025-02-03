@@ -21,6 +21,7 @@
 - [License](#license)
 
 # Summary
+## By Mudassir Alam
 
 The OSSU curriculum is a **complete education in mathematics** using online materials.
 It's for those who want a proper grounding in concepts fundamental to all math disciplines,
